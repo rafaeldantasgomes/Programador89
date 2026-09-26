@@ -1,31 +1,44 @@
-## Olá eu sou o Rafael Dantas 😎
+# Olá, eu sou o Rafael Dantas 👋
 
-<p>Graduado em Analise e desenvolvimento de sistemas pela Universidade Abeu de Ensinos. Tenho experiência em construção de sites com <strong>WordPress, suporte ao usuário, treinamento e levantamento de requisitos para correção bugs</strong>.
+**Arquiteto de Soluções | Engenheiro de Pré-Vendas | Especialista em Ecossistemas Corporativos**
 
-Conhecimento em ERP: Protheus (TOTVS)
-Módulos: 
- - **Controle de Lojas** 
- - **Financeiro**
- - **Compras** 
- - **Estoque** 
- - **Faturamento**
-</p>
+Sou graduado em **Análise e Desenvolvimento de Sistemas** e atuo conectando necessidades de negócio a arquiteturas tecnológicas viáveis, escaláveis e eficientes. Com bagagem em levantamento de requisitos, atendimento ao cliente e sustentação de ecossistemas ERP, meu foco está no desenho de soluções, viabilidade técnica e condução de *Discovery* em processos de pré-vendas.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-dantas-804317a6/)
-![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+---
 
+### 🎯 Áreas de Atuação e Foco Profissional
 
-![Programador89 GitHub stats](https://github-readme-stats.vercel.app/api?username=Programador89&show_icons=true&theme=darcula)
+- 📐 **Arquitetura de Soluções & Pré-Vendas:** Mapeamento de dores de negócio, análise de viabilidade, definição de requisitos não-funcionais e desenho de fluxos de integração.
+- 🏢 **Sistemas Corporativos & ERP:** Experiência com processos de negócio (Controle de Lojas, Financeiro, Compras, Estoque, Faturamento).
+- 💬 **Comunicação Técnica & Negócios:** Interface entre times comerciais, executivos e equipes de desenvolvimento.
 
-### Tecnologias que estudo: 
-<div style="display: inline_block"><br>
-  <img align="center" alt="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-  <img align="center" alt="" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-</div><br>
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Programador89&layout=compact)](https://github.com/Programador89/github-readme-stats)
+### 🛠️ Tecnologias & Competências
+
+**Ecossistema Corporativo & Web:**
+![ERP Protheus](https://img.shields.io/badge/ERP-TOTVS%20Protheus-blue?style=flat-square)
+![WordPress](https://img.shields.io/badge/CMS-WordPress-21759b?style=flat-square&logo=wordpress&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Próximas Fronteiras Tecnológicas (Em expansão):**
+> *Tecnologias em estudo para ampliação da visão de dados, integrações e frontend em desenhos de arquitetura.*
+
+![SQL](https://img.shields.io/badge/SQL-Data%20%26%20Queries-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Automation%20%26%20Backend-3776AB?style=flat-square&logo=python&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-Frontend%20Framework-DD0031?style=flat-square&logo=angular&logoColor=white)
+
+---
+
+### 📚 Repositório em Destaque
+
+- 🏛️ [**solution-architecture-handbook**](./solution-architecture-handbook) — Guia conceitual sobre Arquitetura de Soluções e Pré-Vendas Técnicas, reunindo princípios de engenharia, padrões de integração e boas práticas.
+
+---
+
+### 📬 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaeldantasgomes/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
